@@ -1,0 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+body{
+    background-color: rgb(255, 255, 122);
+    margin: 0;
+}
+
+h1{
+    color: black;
+    font-family: "Roboto";
+    font-size: 50px;
+    margin: 8px;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+h3{
+    
+        color: black;
+        text-align: center;
+    font-family: "Roboto";
+    font-size: 29px;
+
+}
+
+img{
+    max-height: 200px;
+    max-width: 200px;
+  }
+
+#image{
+    text-align: center;
+}
